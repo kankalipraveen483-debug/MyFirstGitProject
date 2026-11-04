@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My First Git Project
 
 **Name:** Praveen Kankali  
@@ -16,3 +17,6 @@ styling, and the use of Git and GitHub for version control.
 - CSS
 - Git
 - GitHub
+=======
+# MyFirstGitProject
+>>>>>>> 1eb9abf12e72c4d1dd48c33c084e392dde2a6e5c
